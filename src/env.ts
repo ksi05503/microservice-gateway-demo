@@ -1,0 +1,1 @@
+export const communityApiBaseUrl = process.env.communityApiBaseUrl;
