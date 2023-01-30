@@ -25,6 +25,7 @@
     "@nestjs/platform-express": "^9.0.0",
     "cache-manager": "^5.1.4",
     "cache-manager-ioredis": "^2.1.0",
+    "class-validator": "^0.13.2",
     "http-proxy": "^1.18.1",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.5.5"
